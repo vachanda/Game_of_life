@@ -1,6 +1,4 @@
 require 'simplecov'
 SimpleCov.start
 
-require 'rectangle'
-require 'length'
-require 'unit'
+require_relative '../lib/game/cell'
